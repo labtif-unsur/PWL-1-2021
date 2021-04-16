@@ -12,9 +12,9 @@ class DatabaseSeeder extends Seeder
 {
     public function run()
     {
-        $faker = Faker::create();
+        // $faker = Faker::create();
 
-        $limit = 5;
+        // $limit = 5;
 
         $roles = [
             [
